@@ -89,12 +89,26 @@
 
 ---
 
-## ✨ Philosophy
-> Learn deeply • Build thoughtfully • Improve continuously
+## ✨ Engineering Philosophy
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <strong>🧠 THINK</strong><br/>
+      Understand the problem deeply<br/>
+      before touching code
+    </td>
+    <td align="center" width="200">
+      <strong>🛠 BUILD</strong><br/>
+      Design clean, scalable,<br/>
+      real-world systems
+    </td>
+    <td align="center" width="200">
+      <strong>📈 EVOLVE</strong><br/>
+      Refactor, optimize,<br/>
+      and improve continuously
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Learn+deeply;Build+thoughtfully;Improve+continuously" />
-</p>
 
