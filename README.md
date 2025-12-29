@@ -95,5 +95,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sp7179&icon=2&color=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Learn+deeply;Build+thoughtfully;Improve+continuously" />
 </p>
+
