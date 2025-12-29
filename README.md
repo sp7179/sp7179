@@ -1,27 +1,84 @@
-# 💫 About Me:
-👋 About Me<br><br>Shourish Paul<br>Computer Science Undergraduate · AI · Full-Stack · Data Analytics<br><br>I’m a Computer Science undergraduate who enjoys building systems that solve real problems, not just writing code that works.<br><br>With 500+ Data Structures & Algorithms problems solved, I’ve developed a strong foundation in problem-solving, core computer science concepts, and logical thinking. Alongside this, I actively work on AI-driven and full-stack projects, where I transform ideas and raw data into structured, deployable applications.<br><br>I’ve built 10+ production-grade projects spanning machine learning, automation, analytics, and backend systems. Through internships at Infosys, Bharat Electronics Limited (BEL), Next24Tech, and Eduversity, I’ve gained hands-on experience working with real datasets, scalable APIs, and production-style workflows.<br><br>I’m particularly interested in:<br><br>Designing clean backend architectures<br><br>Building data-driven intelligence systems<br><br>Creating user-focused, scalable solutions<br><br>At my core, I enjoy learning deeply, building thoughtfully, and improving continuously — with the goal of becoming a well-rounded software engineer who delivers meaningful impact.<br><br>Core Strength<br>Turning raw data, complex problems, and ideas into clear, reliable, and scalable systems.<br><br>🔗 Quick Access<br><br>💻 Portfolio → https://shourishverse.vercel.app<br><br>🧑‍💼 LinkedIn → https://www.linkedin.com/in/shourish-paul-3555192a9/<br><br>🧑‍💻 GitHub → https://github.com/sp7179<br><br>🧠 LeetCode → https://leetcode.com/u/shourish356/
+<h1 align="center">
+  Hi 👋, I'm Shourish Paul
+</h1>
 
+<h3 align="center">
+  Computer Science Undergraduate • AI • Full-Stack • Data Analytics
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shourish_believer005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shourish005@outlook.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sp7179&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sp7179&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sp7179&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sp7179&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sp7179&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+real-world+systems;AI+%7C+Backend+%7C+Data+Driven+Apps;Learning+deeply%2C+building+thoughtfully" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sp7179&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+- 🎓 Computer Science undergraduate focused on **AI, backend systems, and scalable applications**
+- 🧠 Solved **500+ DSA problems**, strong in logic & core CS fundamentals
+- 🛠️ Built **10+ production-grade projects** (AI, automation, analytics, backend)
+- 🏢 Internship experience at **Infosys, BEL, Eduversity, Next24Tech**
+- 🎯 Goal: become a **well-rounded software engineer** delivering real impact
+
+---
+
+## 🧩 Core Strength
+**Turning complex problems and raw data into clean, reliable, scalable systems**
+
+---
+
+## 🔗 Quick Access
+- 🌐 Portfolio: https://shourishverse.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/shourish-paul-3555192a9/  
+- 🧠 LeetCode: https://leetcode.com/u/shourish356/  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, Java, JavaScript, C  
+**Frontend:** React, Next.js, TailwindCSS  
+**Backend:** FastAPI, Flask, Django, Express  
+**Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
+**AI / Data:** NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow  
+**Tools & Cloud:** Git, Docker, AWS, Azure, Vercel, Render  
+
+---
+
+## 📊 GitHub Stats (Auto-updated & Cached)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sp7179&show_icons=true&theme=react&hide_border=true&cache_seconds=21600" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sp7179&theme=react&hide_border=true&cache_seconds=21600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp7179&layout=compact&theme=react&hide_border=true&cache_seconds=21600" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sp7179&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📌 Featured Work
+👉 Explore my **pinned repositories** below for:
+- AI & ML systems
+- Backend APIs
+- Full-stack applications
+- Data analytics projects
+
+---
+
+## ✨ Philosophy
+> Learn deeply • Build thoughtfully • Improve continuously
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sp7179&icon=2&color=6" />
+</p>
