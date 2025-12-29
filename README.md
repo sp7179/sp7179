@@ -34,12 +34,25 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, Java, JavaScript, C  
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** FastAPI, Flask, Django, Express  
-**Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
-**AI / Data:** NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow  
-**Tools & Cloud:** Git, Docker, AWS, Azure, Vercel, Render  
+
+### 🚀 Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,express" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+
+### 🤖 AI / Data
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+### ☁️ Tools & Cloud
+<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,vercel" />
+ 
 
 ---
 
