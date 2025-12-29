@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats (Auto-updated & Cached)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sp7179&show_icons=true&theme=react&hide_border=true&cache_seconds=21600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sp7179&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -53,7 +53,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp7179&layout=compact&theme=react&hide_border=true&cache_seconds=21600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sp7179&theme=react" />
+
 </p>
 
 ---
