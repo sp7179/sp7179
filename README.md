@@ -7,7 +7,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+real-world+systems;AI+%7C+Backend+%7C+Data+Driven+Apps;Learning+deeply%2C+building+thoughtfully" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+real-world+systems;AI+%7C+Backend+%7C+Data-Driven+Applications;Learning+deeply%2C+building+thoughtfully" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 </p>
 
 ---
@@ -18,6 +22,10 @@
 - 🛠️ Built **10+ production-grade projects** (AI, automation, analytics, backend)
 - 🏢 Internship experience at **Infosys, BEL, Eduversity, Next24Tech**
 - 🎯 Goal: become a **well-rounded software engineer** delivering real impact
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sp7179&theme=react&utcOffset=5.5" />
+</p>
 
 ---
 
@@ -34,6 +42,10 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=linear-gradient(135deg,#00C6FF,#0072FF)" />
+</p>
 
 ### 🚀 Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
@@ -52,14 +64,16 @@
 
 ### ☁️ Tools & Cloud
 <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,vercel" />
- 
 
 ---
 
-## 📊 GitHub Stats (Auto-updated & Cached)
+## 📊 GitHub Stats
+<p align="center">
+  <sub>📈 Real activity • Auto-updated • No artificial metrics</sub>
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sp7179&theme=react" />
-
 </p>
 
 <p align="center">
@@ -68,17 +82,22 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sp7179&theme=react" />
-
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Consistency Trophy
+> 🏆 Consistency over time — visualized through real contributions
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sp7179&theme=react-dark&hide_border=true" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=header&text=Selected%20Engineering%20Work&fontSize=22"/>
+</p>
 
 ## 📌 Featured Work
 👉 Explore my **pinned repositories** below for:
@@ -111,4 +130,4 @@
   </tr>
 </table>
 
-
+<sub align="center">This approach guides every project and system I build.</sub>
