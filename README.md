@@ -60,7 +60,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sp7179&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sp7179&theme=onestar&no-frame=true&margin-w=10&cache_seconds=86400" />
 </p>
 
 ---
