@@ -45,7 +45,8 @@
 
 ## 📊 GitHub Stats (Auto-updated & Cached)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sp7179&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sp7179&theme=react" />
+
 </p>
 
 <p align="center">
