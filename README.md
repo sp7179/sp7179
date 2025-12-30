@@ -11,6 +11,19 @@
 </p>
 
 <p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    width="0" height="0"
+  />
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="280"
+    alt="Coding animation"
+  />
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 </p>
 
@@ -83,6 +96,32 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sp7179&theme=react" />
 </p>
+
+---
+## 🚀 Repository Highlights (Live)
+
+> Click any project to explore real engineering work.
+
+<p align="center">
+  <a href="https://github.com/sp7179">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sp7179&theme=react" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <strong>🧠 AI & ML Systems</strong><br/>
+      Review Extraction & Sentiment Intelligence<br/>
+      Network Intrusion Detection
+    </td>
+    <td width="50%">
+      <strong>⚙️ Backend & Full-Stack</strong><br/>
+      Feedback Analytics Platform<br/>
+      AI Personal Finance Tracker
+    </td>
+  </tr>
+</table>
 
 ---
 
