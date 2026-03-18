@@ -46,12 +46,42 @@
 **Turning complex problems and raw data into clean, reliable, scalable systems**
 
 ---
+<h2 align="center">🌐 Digital Presence</h2>
 
-## 🔗 Quick Access
-- 🌐 Portfolio: https://shourishverse.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/shourish-paul-3555192a9/  
-- 🧠 LeetCode: https://leetcode.com/u/shourish356/  
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <a href="https://shourishverse.vercel.app">
+        <img src="https://img.icons8.com/fluency/96/domain.png"/>
+        <br/><strong>🚀 Portfolio</strong>
+        <br/><sub>Projects • Systems • Engineering</sub>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://leetcode.com/u/shourish356/">
+        <img src="https://img.icons8.com/fluency/96/code.png"/>
+        <br/><strong>🧠 LeetCode</strong>
+        <br/><sub>500+ Problems • DSA Growth</sub>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://www.linkedin.com/in/shourish-paul-3555192a9/">
+        <img src="https://img.icons8.com/fluency/96/linkedin.png"/>
+        <br/><strong>💼 LinkedIn</strong>
+        <br/><sub>Professional Network</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -119,9 +149,12 @@
 ---
 
 ### 🚀 Live Problem Tracker (Auto-Updating)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shourish356?theme=dark&ext=contest" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourish356&theme=dark" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=shourish356&theme=dark" />
 </p>
 
 ---
