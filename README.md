@@ -98,6 +98,53 @@
 </p>
 
 ---
+
+## 🧠 LeetCode Intelligence Hub
+
+<p align="center">
+  <a href="https://leetcode.com/u/shourish356/">
+    <img src="https://leetcard.jacoblin.cool/shourish356?theme=dark&font=baloo&ext=heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=shourish356&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="120"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="120"/>
+</p>
+
+---
+
+### 🚀 Live Problem Tracker (Auto-Updating)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shourish356&theme=dark" />
+</p>
+
+---
+
+### 📂 DSA Execution Log (Real Work)
+
+<table align="center">
+  <tr>
+    <td><strong>📅 Timeline</strong></td>
+    <td><strong>🧩 Problem</strong></td>
+    <td><strong>⚡ Approach</strong></td>
+    <td><strong>🔗 Code</strong></td>
+  </tr>
+  <tr>
+    <td>2026</td>
+    <td>Non-overlapping Intervals</td>
+    <td>Greedy + Sorting</td>
+    <td><a href="https://github.com/sp7179">View</a></td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Repository Highlights (Live)
 
 > Click any project to explore real engineering work.
