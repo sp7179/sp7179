@@ -103,12 +103,12 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/shourish356/">
-    <img src="https://leetcard.jacoblin.cool/shourish356?theme=dark&font=baloo&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/shourish356?theme=dark&ext=activity" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=shourish356&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-Analytics-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 <p align="center">
